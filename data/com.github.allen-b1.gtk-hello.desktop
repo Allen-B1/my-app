@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Hello World
+GenericName=Hello World App
+Comment=A Hello World App
+Categories=Utility;
+Exec=com.github.allen-b1.gtk-hello
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME=Gettext-Domain=gtk-hello
+Keywords=Hello;World;
+
